@@ -9,7 +9,7 @@
 
 **A powerful mathematical curve fitting application built with Flutter**
 
-[🌐 Live Website](https://curvefitting.netlify.app) • [📱 Download APK](#-download) • [💻 Source Code](https://github.com/jdhdhgvdhe/curvefitpro/lib) • [👨‍💻 Developer](https://omlalitpatel.netlify.app)
+[🌐 Live Website](https://curvefitting.netlify.app) • [📱 Download APK](#-download) • [💻 Source Code](hhttps://github.com/jdhdhgvdhe/curvefitpro/tree/main/lib) • [👨‍💻 Developer](https://omlalitpatel.netlify.app)
 
 </div>
 
@@ -70,7 +70,7 @@ CurveFitPro is a comprehensive mathematical curve fitting calculator designed to
 
 Download the latest Android APK directly:
 
-- **Latest Release**: [CurveFitPro.apk](https://github.com/jdhdhgvdhe/curvefitpro/downloads)
+- **Latest Release**: [CurveFitPro.apk](https://github.com/jdhdhgvdhe/curvefitpro/raw/refs/heads/main/downloads/CurveFitPro.apk)
 
 
 > ⚠️ **Note**: If you see security warnings during installation, please refer to the [Installation Guide](https://curvefitting.netlify.app/INSTALLATION_GUIDE.html)
@@ -293,7 +293,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+## 🗺️ Roadmap
 
+- [ ] iOS support
+- [ ] Additional curve types (Logarithmic, Power)
+- [ ] Graph visualization
+- [ ] Data import from CSV/Excel
+- [ ] Cloud sync (optional)
+- [ ] Multi-language support
+
+---
 
 ## 💬 Support
 
