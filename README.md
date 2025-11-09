@@ -9,7 +9,7 @@
 
 **A powerful mathematical curve fitting application built with Flutter**
 
-[🌐 Live Website](https://curvefitpro.netlify.app) • [📱 Download APK](https://github.com/jdhdhgvdhe/curvefitpro/raw/refs/heads/main/downloads/CurveFitPro.apk) • [💻 Source Code](https://github.com/jdhdhgvdhe/curvefitpro/tree/main/lib) • [👨‍💻 Developer](https://omlalitpatel.netlify.app) • [more info!!!](https://curvefitting.netlify.app)
+[🌐 Live Website](https://curvefitpro.netlify.app) • [📱 Download APK](https://github.com/jdhdhgvdhe/curvefitpro/raw/refs/heads/main/downloads/CurveFitPro.apk) • [💻 Source Code](https://github.com/jdhdhgvdhe/curvefitpro/tree/main/lib) • [👨‍💻 Developer](https://omlalitpatel.netlify.app) • [ℹ️ more info!!!](https://curvefitting.netlify.app)
 
 </div>
 
@@ -326,3 +326,4 @@ If you find this project helpful, please consider giving it a ⭐ on GitHub!
 [⬆ Back to Top](#-curvefitpro---advanced-curve-fitting-calculator)
 
 </div>
+
